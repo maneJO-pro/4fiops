@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/4fiops/static/css/main.2ba17274.css",
-    "main.js": "/4fiops/static/js/main.d8fa1651.js",
+    "main.js": "/4fiops/static/js/main.44675c30.js",
     "static/js/27.2ad54ac3.chunk.js": "/4fiops/static/js/27.2ad54ac3.chunk.js",
     "static/media/Nioicon.svg": "/4fiops/static/media/Nioicon.3a683679c4d0ec1b9f41.svg",
     "static/media/Nioicon.eot": "/4fiops/static/media/Nioicon.9262cde92d7db9454cc9.eot",
@@ -16,8 +16,8 @@
     "static/media/DMSans-Regular.ttf": "/4fiops/static/media/DMSans-Regular.955c3f75bd785e7f5d9f.ttf",
     "static/media/DMSans-Medium.ttf": "/4fiops/static/media/DMSans-Medium.94265d62e849136126ec.ttf",
     "static/media/DMSans-Bold.ttf": "/4fiops/static/media/DMSans-Bold.1850fd237f7eb8215648.ttf",
+    "static/media/itsmopay-logo.png": "/4fiops/static/media/itsmopay-logo.60039da36abda2bb5716.png",
     "static/media/logo-dark2x.png": "/4fiops/static/media/logo-dark2x.cbb0b695c78f6b7938c2.png",
-    "static/media/itsmopay-logo.jpg": "/4fiops/static/media/itsmopay-logo.8fd360310d8b74a45f8f.jpg",
     "static/media/DMSans-Regular.woff": "/4fiops/static/media/DMSans-Regular.6ef75e74b08091ab6a7e.woff",
     "static/media/DMSans-Medium.woff": "/4fiops/static/media/DMSans-Medium.b026e72d0f540039c1ae.woff",
     "static/media/DMSans-Bold.woff": "/4fiops/static/media/DMSans-Bold.8cfa0319eed913340b2b.woff",
@@ -34,6 +34,6 @@
   },
   "entrypoints": [
     "static/css/main.2ba17274.css",
-    "static/js/main.d8fa1651.js"
+    "static/js/main.44675c30.js"
   ]
 }
